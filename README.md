@@ -38,7 +38,7 @@ The analysis uncovered several significant patterns related to customer churn:
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/](https://github.com/)<your-username>/Customer-Churn-Analysis.git
+    git clone [https://github.com/](https://github.com/)<shreyparikh15>/Customer-Churn-Analysis.git
     ```
 2.  **Explore the Jupyter Notebook**:
     * Ensure you have Python and Jupyter Notebook installed.
